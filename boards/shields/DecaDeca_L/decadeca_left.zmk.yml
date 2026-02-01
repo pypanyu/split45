@@ -1,8 +1,9 @@
 file_format: "1"
-id: DecaDeca_L
-name: DecaDeca_L
+id: decadeca_left
+name: decadeca_left
 type: shield
 url: https://github.com/
 requires: [pro_micro]
 features:
+
   - keys
