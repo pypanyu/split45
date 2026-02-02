@@ -1,4 +1,4 @@
-#include "DecaDeca.dtsi" 
+#include "decadeca.dtsi" 
 
 &kscan0 {
   col-gpios

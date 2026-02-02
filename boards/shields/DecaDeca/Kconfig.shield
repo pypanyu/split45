@@ -1,5 +1,5 @@
 config SHIELD_DECADECA_LEFT
-    def_bool $(shields_list_contains,DecaDeca_left)
+    def_bool $(shields_list_contains,decadeca_left)
 
 config SHIELD_DECADECA_RIGHT
-    def_bool $(shields_list_contains,DecaDeca_right)
+    def_bool $(shields_list_contains,decadeca_right)
