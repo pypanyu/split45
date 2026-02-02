@@ -1,4 +1,4 @@
-#include "DecaDeca_Split.dtsi" 
+#include "DecaDeca.dtsi" 
 
 &default_transform { 
     col-offset = <6>;
