@@ -1,14 +1,14 @@
-if SHIELD_DECADECA_SPLIT_LEFT
+if SHIELD_DECADECA_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "DecaDeca_Split"
+    default "Decadeca_Split"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
 
 endif
 
-if SHIELD_DECADECA_SPLIT_LEFT || SHIELD_DECADECA_SPLIT_RIGHT
+if SHIELD_DECADECA_LEFT || SHIELD_DECADECA_RIGHT
 
 config ZMK_SPLIT
     default y

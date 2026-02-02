@@ -1,2 +1,0 @@
-config SHIELD_DECADECA_R
-    def_bool $(shields_list_contains,DecaDeca_R)

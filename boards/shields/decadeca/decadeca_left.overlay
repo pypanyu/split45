@@ -1,9 +1,4 @@
-#include "DecaDeca_Split.dtsi" 
-
-&default_transform { 
-    col-offset = <6>;
-};
-
+#include "decadeca.dtsi" 
 
 &kscan0 {
   col-gpios
