@@ -1,6 +1,6 @@
 file_format: "1"
 id: decadeca
-name: decadeca_Split
+name: decadeca
 type: shield
 url: https://github.com/
 requires: [pro_micro]
