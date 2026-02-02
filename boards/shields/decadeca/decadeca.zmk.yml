@@ -1,0 +1,11 @@
+file_format: "1"
+id: decadeca
+name: decadeca
+type: shield
+url: https://github.com/
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - decadeca_left
+  - decadeca_right
